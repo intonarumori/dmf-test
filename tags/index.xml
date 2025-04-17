@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Drum Machine Funk</title>
-    <link>http://localhost:1313/dmf-test/tags/</link>
+    <link>https://intonarumori.github.io/dmf-test/tags/</link>
     <description>Recent content in Tags on Drum Machine Funk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Apr 2025 13:31:37 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/dmf-test/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intonarumori.github.io/dmf-test/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android</title>
-      <link>http://localhost:1313/dmf-test/tags/android/</link>
+      <link>https://intonarumori.github.io/dmf-test/tags/android/</link>
       <pubDate>Thu, 17 Apr 2025 13:31:37 +0200</pubDate>
-      <guid>http://localhost:1313/dmf-test/tags/android/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Application</title>
-      <link>http://localhost:1313/dmf-test/tags/application/</link>
+      <link>https://intonarumori.github.io/dmf-test/tags/application/</link>
       <pubDate>Thu, 17 Apr 2025 13:31:37 +0200</pubDate>
-      <guid>http://localhost:1313/dmf-test/tags/application/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/tags/application/</guid>
       <description></description>
     </item>
     <item>
       <title>Ios</title>
-      <link>http://localhost:1313/dmf-test/tags/ios/</link>
+      <link>https://intonarumori.github.io/dmf-test/tags/ios/</link>
       <pubDate>Thu, 17 Apr 2025 13:31:37 +0200</pubDate>
-      <guid>http://localhost:1313/dmf-test/tags/ios/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/tags/ios/</guid>
       <description></description>
     </item>
     <item>
       <title>Label</title>
-      <link>http://localhost:1313/dmf-test/tags/label/</link>
+      <link>https://intonarumori.github.io/dmf-test/tags/label/</link>
       <pubDate>Thu, 17 Apr 2025 12:57:20 +0200</pubDate>
-      <guid>http://localhost:1313/dmf-test/tags/label/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/tags/label/</guid>
       <description></description>
     </item>
     <item>
       <title>Releases</title>
-      <link>http://localhost:1313/dmf-test/tags/releases/</link>
+      <link>https://intonarumori.github.io/dmf-test/tags/releases/</link>
       <pubDate>Thu, 17 Apr 2025 12:57:20 +0200</pubDate>
-      <guid>http://localhost:1313/dmf-test/tags/releases/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/tags/releases/</guid>
       <description></description>
     </item>
   </channel>
