@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://intonarumori.github.io/sitemap.xml
+Disallow: /
