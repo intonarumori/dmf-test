@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drum Machine Funk</title>
-    <link>https://intonarumori.github.io/</link>
+    <link>https://intonarumori.github.io/dmf-test/</link>
     <description>Recent content on Drum Machine Funk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intonarumori.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intonarumori.github.io/dmf-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://intonarumori.github.io/about/</link>
+      <link>https://intonarumori.github.io/dmf-test/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://intonarumori.github.io/about/</guid>
+      <guid>https://intonarumori.github.io/dmf-test/about/</guid>
       <description>&lt;p&gt;We are Drum Machine Funk, a creative digital workshop and record label based in Budapest, Hungary.&lt;/p&gt;&#xA;&lt;p&gt;We love to design and implement creative, unconventional digital solutions informed by our love for creative arts, music, playfulness and inclusivity. We love music and everything that is connected to it: vinyl records, electronic and acoustic instruments, drum machines and synthesizers.&lt;/p&gt;&#xA;&lt;p&gt;If you have a project in mind that you would like to talk to us about feel free to get in touch by contacting us at &lt;a href=&#34;mailto:hello@drummachinefunk.com&#34;&gt;hello@drummachinefunk.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
